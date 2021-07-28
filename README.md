@@ -1,2 +1,2 @@
-# Amin
+# Admin
 Admin feautres
